@@ -1,4 +1,4 @@
-package src.com.frank.spark.core;
+package com.frank.spark.core;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;

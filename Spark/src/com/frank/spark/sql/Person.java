@@ -1,4 +1,4 @@
-package src.com.frank.spark.sql;
+package com.frank.spark.sql;
 
 /**
  * @author: Guozhong Xu

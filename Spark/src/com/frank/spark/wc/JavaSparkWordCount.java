@@ -1,4 +1,4 @@
-package src.com.frank.spark.wc;
+package com.frank.spark.wc;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;
